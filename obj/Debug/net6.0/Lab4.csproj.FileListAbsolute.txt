@@ -1,0 +1,15 @@
+/home/rodica/Desktop/Lab4/bin/Debug/net6.0/Lab4
+/home/rodica/Desktop/Lab4/bin/Debug/net6.0/Lab4.deps.json
+/home/rodica/Desktop/Lab4/bin/Debug/net6.0/Lab4.runtimeconfig.json
+/home/rodica/Desktop/Lab4/bin/Debug/net6.0/Lab4.dll
+/home/rodica/Desktop/Lab4/bin/Debug/net6.0/Lab4.pdb
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.csproj.AssemblyReference.cache
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfoInputs.cache
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfo.cs
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.csproj.CoreCompileInputs.cache
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.dll
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/refint/Lab4.dll
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.pdb
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/Lab4.genruntimeconfig.cache
+/home/rodica/Desktop/Lab4/obj/Debug/net6.0/ref/Lab4.dll
